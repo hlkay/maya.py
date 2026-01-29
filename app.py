@@ -41,9 +41,9 @@ body {
 steps = [
     ("🤍", "Tap it."),
     ("💗", "Okay… again."),
-    ("💖", "It’s growing."),
-    ("💞", "You’re doing great."),
-    ("❤️", "Yeah. This one’s for you."),
+    ("💖", "It’s growingggg."),
+    ("💞", "Just a little bit moreee hehe."),
+    ("❤️", "Yayyyy you got itt."),
 ]
 
 if "step" not in st.session_state:
