@@ -1,6 +1,6 @@
 import streamlit as st
 
-HER_NAME = "Maya"
+HER_NAME = "Bé iu"
 
 st.set_page_config(
     page_title="For You",
@@ -64,7 +64,7 @@ else:
     st.markdown(
         f"""
         <div class="final">
-            Hi {HER_NAME}.<br><br>
+            Hello my {HER_NAME}.<br><br>
             I just wanted to make something small<br>
             to remind you that I love you so much.
         </div>
